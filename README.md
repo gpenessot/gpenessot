@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaël</h1>
 <h3 align="center">A passionate data scientist from France.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpenessot" alt="gpenessot" /></a> </p>
-
 - 🔭 I’m currently working on **Project 1**
 
 - 🌱 I’m currently learning **LLM**
@@ -30,6 +28,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gpenessot&show_icons=true&theme=dracula&locale=en&layout=compact" alt="gpenessot" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gpenessot&show_icons=true&theme=dracula&locale=en" alt="gpenessot" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gpenessot" alt="gpenessot" /></a> </p>
 
 **Stats au 01/01/2024 :**  
 ![](https://komarev.com/ghpvc/?username=gpenessot)
