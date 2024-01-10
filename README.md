@@ -3,10 +3,15 @@
 <h3 align="center">A passionate data scientist from France.</h3>
 
 - 🔭 I’m currently working on :
-    * **Project 1**
-- 🌱 I’m currently learning **LLM**
-- 👨‍💻 All of my projects are available at [data-decision.io](data-decision.io)
-- 📝 I regularly write articles on [medium.com](medium.com)
+    * My first book : "Business Intelligence with Python"
+    * A news searcher based on LLM, Qdrant vector DB and FastAPI (+plotly and TSN-E for dataviz in a Streamlit version)
+    * A Video2Summary app to make summary from video call
+    * A watch's movemetn detector app, based on TensorFlow and Streamlit
+    * PhilosopherGPT, an app to chat with philosophers (currently Marc Aurèle), based on ChatGPT and Qdrant vector DB
+
+- 🌱 I’m currently learning **LLM**, **Transformers**
+- 👨‍💻 Some of my projects are available at [data-decision.io](data-decision.io) but mainly on this repo
+- 📝 I will regularly (2024) write articles on [medium.com](medium.com)
 - 💬 Ask me about **Python**
 - 📫 How to reach me **gael.penessot@data-decision.io**
 - 📄 Know about my experiences [gpenessot.github.io](gpenessot.github.io)
