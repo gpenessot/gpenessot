@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![](https://komarev.com/ghpvc/?username=gpenessot)-->
+![](https://komarev.com/ghpvc/?username=gpenessot)
 ![](https://hit.yhype.me/github/profile?user_id=8466122)
