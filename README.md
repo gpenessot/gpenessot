@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on :
     * My first book : "Business Intelligence with Python"
     * A news searcher based on LLM, Qdrant vector DB and FastAPI (+plotly and TSN-E for dataviz in a Streamlit version)
-    * A Video2Summary app to make summary from video call
+    * A Video2Summary app to make summary from video call, mainly based on HF Transformers
     * A watch's movemetn detector app, based on TensorFlow and Streamlit
     * PhilosopherGPT, an app to chat with philosophers (currently Marc Aurèle), based on ChatGPT and Qdrant vector DB
 
