@@ -2,7 +2,8 @@
 
 <h3 align="center">A passionate data scientist from France.</h3>
 
-- 🔭 I’m currently working on **Project 1**
+- 🔭 I’m currently working on :
+    * **Project 1**
 - 🌱 I’m currently learning **LLM**
 - 👨‍💻 All of my projects are available at [data-decision.io](data-decision.io)
 - 📝 I regularly write articles on [medium.com](medium.com)
