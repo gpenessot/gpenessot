@@ -1,18 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gaël</h1>
+
 <h3 align="center">A passionate data scientist from France.</h3>
 
 - 🔭 I’m currently working on **Project 1**
-
 - 🌱 I’m currently learning **LLM**
-
 - 👨‍💻 All of my projects are available at [data-decision.io](data-decision.io)
-
 - 📝 I regularly write articles on [medium.com](medium.com)
-
 - 💬 Ask me about **Python**
-
 - 📫 How to reach me **gael.penessot@data-decision.io**
-
 - 📄 Know about my experiences [gpenessot.github.io](gpenessot.github.io)
 
 <h3 align="left">Connect with me:</h3>
