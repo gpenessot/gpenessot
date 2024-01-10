@@ -8,6 +8,8 @@
     * A Video2Summary app to make summary from video call, mainly based on HF Transformers
     * A watch's movemetn detector app, based on TensorFlow and Streamlit
     * PhilosopherGPT, an app to chat with philosophers (currently Marc Aurèle), based on ChatGPT and Qdrant vector DB
+    * My personal website, automatically updated with Github Action : [data-decision.io](data-decision.io)
+    * A tool to automate blog writing, it converts Notion page to my HTML blog template
 
 - 🌱 I’m currently learning **LLM**, **Transformers**
 - 👨‍💻 Some of my projects are available at [data-decision.io](data-decision.io) but mainly on this repo
