@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaël</h1>
+<h1 align="center">Hi 👋, I'm Gaël Penessot</h1>
 
 <h3 align="center">A passionate data scientist from France.</h3>
 
