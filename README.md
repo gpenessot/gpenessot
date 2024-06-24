@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **LLM**, **Transformers**
 - 👨‍💻 Some of my projects are available at [data-decision.io](data-decision.io) but mainly on this repo
-- 📝 I will regularly (2024) write articles on [medium.com](medium.com)
+- 📝 I will try to regularly (2024) write articles on [medium.com](medium.com)
 - 💬 Ask me about **Python**
 - 📫 How to reach me **gael.penessot@data-decision.io**
 - 📄 Know about my experiences [gpenessot.github.io](gpenessot.github.io)
