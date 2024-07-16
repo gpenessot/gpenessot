@@ -12,8 +12,8 @@
     * A tool to automate blog writing, it converts Notion page to my HTML blog template
 
 - 🌱 I’m currently learning **LLM**, **Transformers**
-- 👨‍💻 Some of my projects are available at [data-decision.io](data-decision.io) but mainly on this repo
-- 📝 I will try to regularly (2024) write articles on [medium.com](medium.com)
+- 👨‍💻 Some of my projects are available at [data-decision.io](https://www.data-decision.io) but mainly on this repo
+- 📝 I will try to regularly (2024) write articles on [medium.com](https://medium.com/@gael.penessot)
 - 💬 Ask me about **Python**
 - 📫 How to reach me **gael.penessot@data-decision.io**
 - 📄 Know about my experiences [gpenessot.github.io](gpenessot.github.io)
