@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning **LLM**, **Transformers**
 - 👨‍💻 Some of my projects are available at [data-decision.io](https://www.data-decision.io) but mainly on this repo
 - 📝 I will try to regularly (2024) write articles on [Medium](https://medium.data-decision.io/)
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gael.penessot/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0">
 - 💬 Ask me about **Python**
 - 📫 How to reach me **gael.penessot@data-decision.io**
 - 📄 Know about my experiences [gpenessot.github.io](https://gpenessot.github.io)
