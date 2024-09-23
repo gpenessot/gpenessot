@@ -7,7 +7,7 @@
     * A news searcher based on LLM, Qdrant vector DB and FastAPI (+plotly and T-SNE for dataviz in a Streamlit version)
     * A watch's movement detector app, based on TensorFlow and Streamlit
     * PhilosopherGPT, an app to chat with philosophers (currently Marc Aurèle), based on ChatGPT and Qdrant vector DB
-    * My personal website, automatically updated with Github Action : [data-decision.io](data-decision.io)
+    * My personal website, automatically updated with Github Action : [data-decision.io](https://data-decision.io)
     * A tool to automate blog writing, it converts Notion page to my HTML blog template
 
 - 🌱 I’m currently learning **LLM**, **Transformers**
