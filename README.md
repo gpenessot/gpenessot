@@ -79,7 +79,7 @@ I demystify data tools to make them accessible and efficient:
 
 - 👨‍💼 **LinkedIn**: [Gaël Penessot](https://linkedin.com/in/gael-penessot)
 - 📧 **Email**: gael.penessot@data-decision.io
-- 🌐 **Web**: [data-decision.io](https://data-decision.io)
+- 🌐 **Web**: [data-decision.io](https://www.data-decision.io/)
 
 ---
 
