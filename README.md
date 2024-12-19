@@ -25,6 +25,18 @@ I demystify data tools to make them accessible and efficient:
 | **Automation**          | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 | **DevOps**              | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-005571?style=flat&logo=github-actions&logoColor=white) |
 
+---
+
+## 👨‍🏫 Teaching & Training
+
+- 🎯 **Technical Workshops**: Python for Data Analysis (Pandas, Polars, NumPy)
+- 🔄 **Process Automation**: Custom training programs for companies transitioning to automated workflows
+- 📊 **Data Visualization**: Hands-on sessions on modern visualization tools (Plotly, Seaborn)
+- 🤝 **Mentoring**: One-on-one guidance for data analysts and scientists
+- 🏢 **Corporate Training**: 
+  - Data teams productivity optimization
+  - Code review and best practices
+  - Git workflow for data teams
 
 ---
 
