@@ -50,6 +50,14 @@ I demystify data tools to make them accessible and efficient:
 
 ---
 
+## 📦 Open Source Projects
+
+- 🐻 **[Baribal](https://github.com/gpenessot/baribal)**: R-inspired Python package for data analysis, extending pandas and polars with helper functions for simpler exploratory data analysis and data wrangling.
+  - Features: `glimpse()`, `tabyl()`, `clean_names()` and more
+  - Compatible with both pandas and polars DataFrames
+  - Focus on intuitive data exploration and manipulation
+---
+
 ## 🛠️ Tools I'm Building for Analysts
 
 ### 1. **Portfolio Enhancement Tools**
