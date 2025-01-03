@@ -9,7 +9,7 @@ I'm **Gaël Penessot**, a Python and data automation expert with **15+ years** o
 - 📖 Author of [**"Business Intelligence with Python"**](https://amzn.to/4feQJOc)
 - 💼 Creator of the [**DataGyver Newsletter**](https://datagyver.substack.com/)
 - 🔧 Tech mentor & data analysis trainer
-- ✍️ Regular contributor on [Medium](https://medium.data-decision.io/)
+- ✍️ Regular contributor on [**Medium**](https://medium.data-decision.io/)
 
 ---
 
