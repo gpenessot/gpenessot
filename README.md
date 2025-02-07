@@ -43,7 +43,7 @@ I demystify data tools to make them accessible and efficient:
 
 ## 🔥 Current Projects
 
-- 📚 **Writing new books**: *"Pandas to Polars in 30 days"*
+- 📚 **Writing new books**: *"Pandas to Polars in 7 days"*
 - 🛠️ **GitHub Portfolio Analyzer**: AI-powered tool to assess and improve data projects
 - 📊 **Tech Trends Analyzer**: Market insights for data professionals
 - 🎨 **LinkedIn Carousel Generator**: Automated content creation tool
