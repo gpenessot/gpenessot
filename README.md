@@ -11,6 +11,7 @@ I'm **Gaël Penessot**, a Python and data automation expert with **15+ years** o
 - 🔧 Tech mentor & data analysis trainer
 - ✍️ Regular contributor on [**Medium**](https://medium.data-decision.io/)
 - 🐻 Creator and maintainer of [**baribal**](https://github.com/gpenessot/baribal): R-inspired Python package for data analysis
+- 🎯 Coaching [**Linkedin4Tech**](https://taap.it/p7JfcE)
 
 ---
 
