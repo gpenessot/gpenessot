@@ -1,6 +1,17 @@
 # 👋 Welcome to my page!
 
-I'm **Gaël Penessot**, a Python and data automation expert with **15+ years** of experience in scientific computing and data analysis. My mission: **boosting analysts' productivity through Python**.
+🚀 I help junior & self-taught data analysts become confident, fast, and autonomous — using modern Python & SQL tools.
+
+👋 Hi! I'm **Gaël Penessot**, author, trainer & productivity geek — with 15+ years in analytics, business intelligence, and data engineering.
+
+---
+
+## 🔥 Featured Products
+
+- 🎓 [Productive Data Analyst with Python (Coming Soon)](https://glups.uno/H301W6) → Join the waitlist
+- 📘 [Business Intelligence with Python](https://amzn.to/4feQJOc)
+- 🧠 [Linkedin4Tech Coaching](https://taap.it/p7JfcE)
+- 📩 [DataGyver Newsletter – Weekly Python/SQL Tips](https://datagyver.substack.com)
 
 ---
 
@@ -8,16 +19,14 @@ I'm **Gaël Penessot**, a Python and data automation expert with **15+ years** o
 
 - 📖 Author of [**"Business Intelligence with Python"**](https://amzn.to/4feQJOc)
 - 💼 Creator of the [**DataGyver Newsletter**](https://datagyver.substack.com/)
-- 🔧 Tech mentor & data analysis trainer
-- ✍️ Regular contributor on [**Medium**](https://medium.data-decision.io/)
-- 🐻 Creator and maintainer of [**baribal**](https://github.com/gpenessot/baribal): R-inspired Python package for data analysis
-- 🎯 Coaching [**Linkedin4Tech**](https://taap.it/p7JfcE)
+- 🔧 Tech mentor & data productivity trainer
+- ✍️ Writer on [**Medium**](https://medium.data-decision.io/)
+- 🐻 Creator of [**baribal**](https://github.com/gpenessot/baribal) — R-inspired data wrangling helpers
+- 🎯 Coach via [**Linkedin4Tech**](https://taap.it/p7JfcE)
 
 ---
 
 ## 💡 My Expertise
-
-I demystify data tools to make them accessible and efficient:
 
 | **Domain**              | **Technologies**                                                                                     |
 |-------------------------|----------------------------------------------------------------------------------------------------|
@@ -29,91 +38,73 @@ I demystify data tools to make them accessible and efficient:
 
 ---
 
-## 👨‍🏫 Teaching & Training
+## 👨‍🏫 What I Teach
 
-- 🎯 **Technical Workshops**: Python for Data Analysis (Pandas, Polars, NumPy)
-- 🔄 **Process Automation**: Custom training programs for companies transitioning to automated workflows
-- 📊 **Data Visualization**: Hands-on sessions on modern visualization tools (Plotly, Seaborn)
-- 🤝 **Mentoring**: One-on-one guidance for data analysts and scientists
-- 🏢 **Corporate Training**: 
-  - Data teams productivity optimization
-  - Code review and best practices
-  - Git workflow for data teams
+- 📈 Become a productive Data Analyst with modern Python & SQL (pandas, polars, DuckDB)
+- 📊 Create interactive dashboards (Plotly, Streamlit)
+- 🛠️ Automate your workflows (FastAPI, GitHub Actions)
+- 🧪 Train data teams on Git, clean code & review practices
 
 ---
 
-## 🔥 Current Projects
+## 🔭 What I'm Working On
 
-- 📚 **Writing new books**: *"Pandas to Polars in 7 days"*
-- 🛠️ **GitHub Portfolio Analyzer**: AI-powered tool to assess and improve data projects
-- 📊 **Tech Trends Analyzer**: Market insights for data professionals
-- 🎨 **LinkedIn Carousel Generator**: Automated content creation tool
-- ⚡ **Productivity Tools**: For data analysts to automate workflows
+### ✍️ Publications
+- "Pandas to Polars in 7 Days" (in progress)
+- Polars performance series on Medium
+
+### 🛠️ Developer Tools
+- GitHub Portfolio Analyzer (AI-powered)
+- Tech Trends & Market Analyzer
+
+### 🎯 Career Tools
+- LinkedIn Carousel Generator (auto-content)
+- SQLQuizz.io – SaaS learning platform (beta soon!)
 
 ---
 
-## 📦 Open Source Projects
+## 📦 Open Source
 
-- 🐻 **[Baribal](https://github.com/gpenessot/baribal)**: R-inspired Python package for data analysis, extending pandas and polars with helper functions for simpler exploratory data analysis and data wrangling.
-  - Features: `glimpse()`, `tabyl()`, `clean_names()` and more
-  - Compatible with both pandas and polars DataFrames
-  - Focus on intuitive data exploration and manipulation
+- 🐻 [**Baribal**](https://github.com/gpenessot/baribal): R-style helpers for pandas & polars — `glimpse()`, `tabyl()`, `clean_names()` and more.
+
 ---
 
-## 🛠️ Tools I'm Building for Analysts
+## 🎁 Free Resources
 
-### 1. **Portfolio Enhancement Tools**
-- GitHub repository structure analyzer
-- Code quality assessment
-- Project documentation generator
-
-### 2. **Career Development Tools**
-- Tech stack trend analyzer
-- Skills gap identifier
-- Market demand tracker
-
-### 3. **Content Creation Tools**
-- Automated LinkedIn carousel creator
-- Technical content templates
-- Data visualization automation
+- ✅ [7 Common Pandas Mistakes — and How to Fix Them](https://glups.uno/XYZ)
+- 🔍 [Interactive SQL Cheatsheet (Evidence)](https://glups.uno/ABC)
+- 📥 [Productivity Toolkit for Analysts](https://glups.uno/DEF)
 
 ---
 
 ## 📈 Featured Articles
 
-- ✅ [**Stop Wasting Time: Automate Your Presentation with Python**](https://medium.com/@gael.penessot/stop-wasting-time-automate-your-presentation-with-python-a721fe39c8e5)  
-  *Learn how to automate boring presentation updates.*
-- 🚀 [**The Beauty of Data: How Matplotlib Transformed Global Temperatures into Visual Art**](https://medium.com/@gael.penessot/the-beauty-of-data-how-matplotlib-transformed-global-temperatures-into-visual-art-8e034fd21b69)  
-  *The secret to make matplotlib graph sexy.*
-- 📈 [**3 Tips to Unlock Pandas’ Potential for Efficient Large File Reading**](https://medium.com/@gael.penessot/3-tips-to-unlock-pandas-potential-for-efficient-large-file-reading-3805c6c0ff3e)
-  *Stop wasting time waiting for pandas to read large files.*
+- ✅ [Stop Wasting Time: Automate Your Presentation with Python](https://medium.com/@gael.penessot/stop-wasting-time-automate-your-presentation-with-python-a721fe39c8e5)
+- 🚀 [The Beauty of Data: Matplotlib Meets Climate Visualization](https://medium.com/@gael.penessot/the-beauty-of-data-how-matplotlib-transformed-global-temperatures-into-visual-art-8e034fd21b69)
+- 📈 [3 Pandas Tricks to Speed Up File Reading](https://medium.com/@gael.penessot/3-tips-to-unlock-pandas-potential-for-efficient-large-file-reading-3805c6c0ff3e)
 
 ---
 
-## 👉 My GitHub Stats
+## 📬 Stay Connected
 
-![Gaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpenessot&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpenessot&layout=compact&theme=radical)
-
----
-
-## 💌 Get in Touch
-
-- 👨‍💼 **LinkedIn**: [Gaël Penessot](https://linkedin.com/in/gael-penessot)
-- 📧 **Email**: gael.penessot@data-decision.io
-- 🌐 **Web**: [data-decision.io](https://www.data-decision.io/)
+- 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot)
+- 📧 Email: gael.penessot@data-decision.io
+- 🌐 Website: [data-decision.io](https://www.data-decision.io/)
 
 ---
 
 ## 🎯 My Mission
 
-Help you save **hours** on your data analysis by making Python **simple and actionable**. From SQL to deep learning, I guide analysts in **automating their workflows**.
+Help data analysts save **hours of work** through smart workflows, modern tools, and actionable Python & SQL tips.
+
+> "Simplicity is the ultimate sophistication." — *Leonardo da Vinci*
 
 ---
 
-> *"Simplicity is the ultimate sophistication."*  
-> — **Leonardo da Vinci**
+**GitHub Stats**  
+![Gaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpenessot&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpenessot&layout=compact&theme=radical)
 
-**Stats from 01/01/2024 to now :**  
-![](https://komarev.com/ghpvc/?username=gpenessot)
-![](https://hit.yhype.me/github/profile?user_id=8466122)
+![Profile views](https://komarev.com/ghpvc/?username=gpenessot)
+![Hits](https://hit.yhype.me/github/profile?user_id=8466122)
+
