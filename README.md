@@ -69,14 +69,6 @@
 
 ---
 
-## 🎁 Free Resources
-
-- ✅ [7 Common Pandas Mistakes — and How to Fix Them](https://glups.uno/XYZ)
-- 🔍 [Interactive SQL Cheatsheet (Evidence)](https://glups.uno/ABC)
-- 📥 [Productivity Toolkit for Analysts](https://glups.uno/DEF)
-
----
-
 ## 📈 Featured Articles
 
 - ✅ [Stop Wasting Time: Automate Your Presentation with Python](https://medium.com/@gael.penessot/stop-wasting-time-automate-your-presentation-with-python-a721fe39c8e5)
