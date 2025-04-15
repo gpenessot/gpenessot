@@ -11,7 +11,7 @@
 - 🎓 [Productive Data Analyst with Python (Coming Soon)](https://glups.uno/H301W6) → Join the waitlist
 - 📘 [Business Intelligence with Python](https://amzn.to/4feQJOc)
 - 🧠 [Linkedin4Tech Coaching](https://taap.it/p7JfcE)
-- 📩 [DataGyver Newsletter – Weekly Python/SQL Tips](https://datagyver.substack.com)
+- 📩 [DataGyver Newsletter – Monthly Python/SQL Tips](https://datagyver.substack.com)
 
 ---
 
