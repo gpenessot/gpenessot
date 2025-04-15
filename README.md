@@ -10,20 +10,20 @@
 <!--
 - 🎓 [Productive Data Analyst with Python (Coming Soon)](https://glups.uno/H301W6) → Join the waitlist
 -->
-- 📘 [Business Intelligence with Python](https://amzn.to/4feQJOc)
-- 🧠 [Linkedin4Tech Coaching](https://taap.it/p7JfcE)
-- 📩 [DataGyver Newsletter – Monthly Python/SQL Tips](https://datagyver.substack.com)
+- 📘 [Business Intelligence with Python](https://glups.uno/VMKWNf)
+- 🧠 [Linkedin4Tech Coaching](https://glups.uno/vhLofA)
+- 📩 [DataGyver Newsletter – Monthly Python/SQL Tips](https://glups.uno/H301W6)
 
 ---
 
 ## 🚀 What I Do
 
-- 📖 Author of [**"Business Intelligence with Python"**](https://amzn.to/4feQJOc)
-- 💼 Creator of the [**DataGyver Newsletter**](https://datagyver.substack.com/)
+- 📖 Author of [**"Business Intelligence with Python"**](https://glups.uno/VMKWNf)
+- 💼 Creator of the [**DataGyver Newsletter**](https://glups.uno/H301W6)
 - 🔧 Tech mentor & data productivity trainer
 - ✍️ Writer on [**Medium**](https://medium.data-decision.io/)
 - 🐻 Creator of [**baribal**](https://github.com/gpenessot/baribal) — R-inspired data wrangling helpers
-- 🎯 Coach via [**Linkedin4Tech**](https://taap.it/p7JfcE)
+- 🎯 Coach via [**Linkedin4Tech**](https://glups.uno/vhLofA)
 
 ---
 
