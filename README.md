@@ -10,7 +10,7 @@
 <!--
 - 🎓 [Productive Data Analyst with Python (Coming Soon)](https://glups.uno/H301W6) → Join the waitlist
 -->
-- 📘 [Business Intelligence with Python](https://glups.uno/VMKWNf)
+- 📘 [Business Intelligence with Python](https://glups.uno/5zhfSk)
 - 🧠 [Linkedin4Tech Coaching](https://glups.uno/vhLofA)
 - 📩 [DataGyver Newsletter – Monthly Python/SQL Tips](https://glups.uno/H301W6)
 
@@ -18,7 +18,7 @@
 
 ## 🚀 What I Do
 
-- 📖 Author of [**"Business Intelligence with Python"**](https://glups.uno/VMKWNf)
+- 📖 Author of [**"Business Intelligence with Python"**](https://glups.uno/5zhfSk)
 - 💼 Creator of the [**DataGyver Newsletter**](https://glups.uno/H301W6)
 - 🔧 Tech mentor & data productivity trainer
 - ✍️ Writer on [**Medium**](https://medium.data-decision.io/)
