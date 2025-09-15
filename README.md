@@ -8,7 +8,7 @@
 
 ## 🔥 My Courses & Products
 
-- 🎓 [**Streamlit Unleashed**](https://pim.ms/STREAMLIT) → Build powerful data apps in days, not months.
+- 🎓 [**Streamlit Unleashed**](https://pim.ms/zLAUu8a) → Build powerful data apps in days, not months.
 - 🎓 [**The Data Analyst's Portfolio**](https://pim.ms/iDIKllM) → Create a job-winning portfolio. Join the waitlist!
 - 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) → My bestselling book on modern data analysis.
 - 🧠 [**1:1 Coaching Session**](https://pim.ms/HtnvBCa) → Book a session to unblock your career or tech skills.
