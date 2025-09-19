@@ -97,7 +97,8 @@ Help data analysts save **hours of work** through smart workflows, modern tools,
 
 ---
 
-**GitHub Stats**  
+**GitHub Stats**
+  
 ![Gaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpenessot&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpenessot&layout=compact&theme=radical)
 
