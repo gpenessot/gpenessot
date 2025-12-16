@@ -9,7 +9,7 @@
 ## 🔥 My Courses & Products
 
 - 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) → Bestselling book (534+ copies sold, now available in Spanish!) — ENI Editions
-- 🎓 [**Streamlit Unleashed**](https://www.mes-formations-data.fr/) → Build production-ready data apps (19 students enrolled before official launch)
+- 🎓 [**Streamlit Unleashed**](https://www.mes-formations-data.fr/) → Build production-ready data apps (40+ students enrolled)
 - 🎓 [**Portfolio Impactant**](https://www.mes-formations-data.fr/) → Create a job-winning data portfolio with real-world projects
 - 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) → 1,138 subscribers — Daily Python/SQL tips & trends
 - 💼 [**1:1 Coaching Session**](https://pim.ms/HtnvBCa) → Unblock your career or tech skills
