@@ -2,7 +2,7 @@
 
 🚀 I help junior & self-taught data analysts become **confident, fast, and autonomous** — using **modern Python & SQL tools**.
 
-👋 Hi! I'm **Gaël Penessot**, #1 BI content creator in France (25k LinkedIn, 1,138 newsletter subscribers, Top 5 Data Science Favikon France) — author, trainer, and productivity geek with 15+ years in analytics, BI & data engineering.
+👋 Hi! I'm **Gaël Penessot**, #5 Data Science content creator in France (27k LinkedIn, 1,200+ newsletter subscribers, Top 5 Data Science Favikon France) — author, trainer, and productivity geek with 15+ years in analytics, BI & data engineering.
 
 ---
 
@@ -22,7 +22,7 @@
 
 - 📖 Author of [**"Business Intelligence with Python"**](https://pim.ms/fXwQaXx) — 534+ copies sold, translated in Spanish
 - 👨‍🏫 Creator of **Streamlit Unleashed** & **Portfolio Impactant** courses
-- 💼 Creator of the [**DataGyver Newsletter**](https://pim.ms/x89Vem4) — 1,138 subscribers, daily content
+- 💼 Creator of the [**DataGyver Newsletter**](https://pim.ms/x89Vem4) — 1,200+ subscribers, daily content
 - 🔧 Tech mentor & data productivity trainer
 - 🎯 Organizer of Data/AI meetups in Dijon
 - ✍️ Writer on [**Medium**](https://medium.com/@gael.penessot)
@@ -89,7 +89,7 @@
 
 ## 📬 Stay Connected
 
-- 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot) (25k+ followers)
+- 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot) (27k+ followers)
 - 📧 Email: gael.penessot@data-decision.io
 - 🌐 Training Platform: [mes-formations-data.fr](https://www.mes-formations-data.fr/)
 - 📩 Newsletter: [DataGyver](https://pim.ms/t8Oupvs) — 1,138 subscribers, daily insights
