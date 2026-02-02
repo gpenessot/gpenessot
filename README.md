@@ -2,16 +2,16 @@
 
 🚀 I help junior & self-taught data analysts become **confident, fast, and autonomous** — using **modern Python & SQL tools**.
 
-👋 Hi! I'm **Gaël Penessot**, #5 Data Science content creator in France (27k LinkedIn, 1,200+ newsletter subscribers, Top 5 Data Science Favikon France) — author, trainer, and productivity geek with 15+ years in analytics, BI & data engineering.
+👋 Hi! I'm **Gaël Penessot**, #5 Data Science content creator in France (28k LinkedIn, 1,300+ newsletter subscribers, Top 5 Data Science Favikon France) — author, trainer, and productivity geek with 15+ years in analytics, BI & data engineering.
 
 ---
 
 ## 🔥 My Courses & Products
 
-- 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) → Bestselling book (534+ copies sold, now available in Spanish!) — ENI Editions
-- 🎓 [**Streamlit Unleashed**](https://www.mes-formations-data.fr/) → Build production-ready data apps (40+ students enrolled)
+- 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) → Bestselling book (500+ copies sold, now available in Spanish!) — ENI Editions
+- 🎓 [**Streamlit Unleashed**](https://www.mes-formations-data.fr/) → Build production-ready data apps (50+ students enrolled)
 - 🎓 [**Portfolio Impactant**](https://www.mes-formations-data.fr/) → Create a job-winning data portfolio with real-world projects
-- 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) → 1,138 subscribers — Daily Python/SQL tips & trends
+- 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) → 1300+ subscribers — Daily Python/SQL tips & trends
 - 💼 [**1:1 Coaching Session**](https://pim.ms/HtnvBCa) → Unblock your career or tech skills
 
 🎯 **All courses available on:** [mes-formations-data.fr](https://www.mes-formations-data.fr/)
@@ -20,9 +20,9 @@
 
 ## 🚀 What I Do
 
-- 📖 Author of [**"Business Intelligence with Python"**](https://pim.ms/fXwQaXx) — 534+ copies sold, translated in Spanish
+- 📖 Author of [**"Business Intelligence with Python"**](https://pim.ms/fXwQaXx) — 500+ copies sold, translated in Spanish
 - 👨‍🏫 Creator of **Streamlit Unleashed** & **Portfolio Impactant** courses
-- 💼 Creator of the [**DataGyver Newsletter**](https://pim.ms/x89Vem4) — 1,200+ subscribers, daily content
+- 💼 Creator of the [**DataGyver Newsletter**](https://pim.ms/x89Vem4) — 1300+ subscribers, daily content
 - 🔧 Tech mentor & data productivity trainer
 - 🎯 Organizer of Data/AI meetups in Dijon
 - ✍️ Writer on [**Medium**](https://medium.com/@gael.penessot)
@@ -60,7 +60,7 @@
 
 ### 🎓 Training Platform
 - [**mes-formations-data.fr**](https://www.mes-formations-data.fr/): Interactive learning platform with embedded marimo notebooks for SQL
-- **Streamlit Unleashed**: Advanced production patterns (19 pre-launch students)
+- **Streamlit Unleashed**: Advanced production patterns
 - **Portfolio Impactant**: Real-world projects for career advancement
 
 ### 🛠️ Developer Tools
