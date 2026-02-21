@@ -1,43 +1,51 @@
-# 👋 Welcome to my page!
+# 👋 Hi, I'm Gaël Penessot
 
-🚀 I help junior & self-taught data analysts become **confident, fast, and autonomous** — using **modern Python & SQL tools**.
+> **"Rends-toi visible par ce que tu produis."**  
+> Visibility opens doors. Whether it's a deployed project, a technical article, or a shared analysis — what matters is that it exists publicly.
 
-👋 Hi! I'm **Gaël Penessot**, #5 Data Science content creator in France (28k LinkedIn, 1,300+ newsletter subscribers, Top 5 Data Science Favikon France) — author, trainer, and productivity geek with 15+ years in analytics, BI & data engineering.
+I spent 2 years posting tips, tutorials, and technical discoveries before monetizing anything. That consistency — not my MBA, not my 50+ certifications — built an audience of 28k on LinkedIn. Now I help others do the same.
+
+📍 Dijon, France | ✍️ Content creator, author, trainer
 
 ---
 
-## 🔥 My Courses & Products
+## 🔥 Products & Resources
 
-- 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) → Bestselling book (500+ copies sold, now available in Spanish!) — ENI Editions
-- 🎓 [**Streamlit Unleashed**](https://www.mes-formations-data.fr/) → Build production-ready data apps (50+ students enrolled)
-- 🎓 [**Portfolio Impactant**](https://www.mes-formations-data.fr/) → Create a job-winning data portfolio with real-world projects
-- 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) → 1300+ subscribers — Daily Python/SQL tips & trends
-- 💼 [**1:1 Coaching Session**](https://pim.ms/HtnvBCa) → Unblock your career or tech skills
+| | |
+|---|---|
+| 📦 [**ShipData**](https://www.mes-formations-data.fr/formation/shipdata) | 3 professional Python boilerplates to deploy your first portfolio projects — **49€** |
+| 🗄️ [**SQL Mastery Beta**](https://www.mes-formations-data.fr/formation/sql-mastery-beta) | Master SQL with DuckDB & Python — 87 exercises, zero installation — **97€** |
+| 🎓 [**Streamlit Unleashed**](https://www.mes-formations-data.fr/formation/streamlit-unleashed) | Build production-ready data apps that get noticed — **297€** |
+| 🏆 [**Portfolio Impactant**](https://www.mes-formations-data.fr/formation/portfolio-impactant) | Create a data portfolio that opens doors — **197€** |
+| 🚀 [**Productive Python Bootcamp**](https://www.mes-formations-data.fr/formation/bootcamp) | 4-week intensive: go from invisible candidate to the profile that stands out — **990€** |
+| 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) | Bestselling book — 600+ copies sold, translated into Spanish — ENI Éditions |
+| 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) | 1,300+ subscribers, 50% open rate — weekly Python/SQL insights |
+| 🎓 **LinkedIn Learning** | Polars course (February 2026) — 28M+ francophone learners |
 
-🎯 **All courses available on:** [mes-formations-data.fr](https://www.mes-formations-data.fr/)
+🌐 [mes-formations-data.fr](https://www.mes-formations-data.fr/)
 
 ---
 
 ## 🚀 What I Do
 
-- 📖 Author of [**"Business Intelligence with Python"**](https://pim.ms/fXwQaXx) — 500+ copies sold, translated in Spanish
-- 👨‍🏫 Creator of **Streamlit Unleashed** & **Portfolio Impactant** courses
-- 💼 Creator of the [**DataGyver Newsletter**](https://pim.ms/x89Vem4) — 1300+ subscribers, daily content
-- 🔧 Tech mentor & data productivity trainer
+- 📖 Author of [**"Business Intelligence with Python"**](https://pim.ms/fXwQaXx) — 600+ copies sold, translated into Spanish
+- 👨‍🏫 Creator of **ShipData**, **SQL Mastery**, **Streamlit Unleashed**, **Portfolio Impactant**, and the **Productive Python Bootcamp**
+- 📡 **Formateur LinkedIn Learning** — Polars course in production for a 28M+ francophone audience
+- 📩 [**DataGyver Newsletter**](https://pim.ms/x89Vem4) — 1,300+ subscribers, weekly deep dives
 - 🎯 Organizer of Data/AI meetups in Dijon
 - ✍️ Writer on [**Medium**](https://medium.com/@gael.penessot)
 - 🐻 Creator of [**baribal**](https://github.com/gpenessot/baribal) — R-inspired data wrangling for Python
 
 ---
 
-## 💡 My Expertise: Modern Data Stack
+## 💡 Modern Data Stack
 
 | **Domain**              | **Technologies**                                                                                     |
 |-------------------------|----------------------------------------------------------------------------------------------------|
 | **Modern Data Analysis** | ![polars](https://img.shields.io/badge/Polars-6A5ACD?style=flat&logo=python&logoColor=white) ![duckdb](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
 | **Data Visualization**  | ![Plotly](https://img.shields.io/badge/Plotly-239120?style=flat&logo=plotly&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![marimo](https://img.shields.io/badge/Marimo-00A98F?style=flat&logo=python&logoColor=white) |
-| **Interactive Learning** | ![marimo](https://img.shields.io/badge/Marimo-00A98F?style=flat&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white) |
-| **Machine Learning**    | ![scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![transformers](https://img.shields.io/badge/Transformers-0096C7?style=flat&logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-7B16FF?style=flat&logo=python&logoColor=white)  |
+| **Reporting**           | ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=flat&logo=quarto&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) |
+| **Machine Learning**    | ![scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![transformers](https://img.shields.io/badge/Transformers-0096C7?style=flat&logo=python&logoColor=white) ![spaCy](https://img.shields.io/badge/spaCy-7B16FF?style=flat&logo=python&logoColor=white) |
 | **Automation & APIs**   | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![uv](https://img.shields.io/badge/uv-000000?style=flat&logo=python&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) |
 | **DevOps**              | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-005571?style=flat&logo=github-actions&logoColor=white) |
 
@@ -45,27 +53,29 @@
 
 ## 👨‍🏫 What I Teach
 
-- 🏆 **Build a job-winning data portfolio** with real-world projects you'll be proud to share
-- 🚀 **Create production-ready data apps** with Streamlit, Plotly & modern Python
-- ⚡ **Master modern data tools** (Polars, DuckDB, Marimo, Quarto) for 10x productivity
-- 📊 **Become a confident Data Analyst** with hands-on Python & SQL training
-- 🛠️ **Automate workflows** with FastAPI, uv & GitHub Actions
-- 🧪 **Train data teams** on Git, clean code & code review
+- 📦 **Start your portfolio fast** — clone, adapt, and deploy 3 production-ready projects in a weekend ([ShipData](https://www.mes-formations-data.fr/formation/shipdata))
+- 🗄️ **Master SQL the modern way** — DuckDB, window functions, Python integration, zero installation ([SQL Mastery](https://www.mes-formations-data.fr/formation/sql-mastery-beta))
+- 🚀 **Build apps that get noticed** — from local notebook to deployed Streamlit app ([Streamlit Unleashed](https://www.mes-formations-data.fr/formation/streamlit-unleashed))
+- 🏆 **Create a portfolio that opens doors** — real projects, LinkedIn strategy, recruiter-ready ([Portfolio Impactant](https://www.mes-formations-data.fr/formation/portfolio-impactant))
+- ⚡ **Go production-ready in 4 weeks** — CI/CD, DuckDB, Pandera, design system, the full stack ([Bootcamp](https://www.mes-formations-data.fr/formation/bootcamp))
 
-> **My promise:** Work smarter, not harder. Save hours every week with modern tools.
+> **My conviction:** You don't become visible by accumulating credentials. You become visible by producing things people can see, use, and judge.
 
 ---
 
 ## 🔭 Current Projects
 
 ### 🎓 Training Platform
-- [**mes-formations-data.fr**](https://www.mes-formations-data.fr/): Interactive learning platform with embedded marimo notebooks for SQL
-- **Streamlit Unleashed**: Advanced production patterns
-- **Portfolio Impactant**: Real-world projects for career advancement
+- [**mes-formations-data.fr**](https://www.mes-formations-data.fr/) — practical formations built around deployable, portfolio-ready projects
+- **ShipData** — 3 boilerplates to stop the tutorial hell
+- **SQL Mastery Beta** — DuckDB WASM directly in the browser, 87 exercises
+- **Streamlit Unleashed** — production patterns for data apps
+- **Portfolio Impactant** — real-world projects for career visibility
+- **Productive Python Bootcamp** — 4-week intensive, 10 spots per cohort
 
 ### 🛠️ Developer Tools
-- **Baribal**: R-style data wrangling helpers for Python
-- Tech Trends Analyzer: Market intelligence dashboard
+- **Baribal** — R-style data wrangling helpers for Python
+- **Tech Trends Analyzer** — market intelligence dashboard
 
 ---
 
@@ -81,7 +91,7 @@
 - 🚀 [The Beauty of Data: Matplotlib Meets Climate Visualization](https://medium.com/@gael.penessot/the-beauty-of-data-how-matplotlib-transformed-global-temperatures-into-visual-art-8e034fd21b69)
 - ✅ [Stop Wasting Time: Automate Your Presentation with Python](https://medium.com/@gael.penessot/stop-wasting-time-automate-your-presentation-with-python-a721fe39c8e5)
 - 📈 [3 Pandas Tricks to Speed Up File Reading](https://medium.com/@gael.penessot/3-tips-to-unlock-pandas-potential-for-efficient-large-file-reading-3805c6c0ff3e)
-- 🤖 [Unleash Llama 3.1 8B Power at Home](https://medium.com/@gael.penessot/unleash-llama-3-1-8b-power-at-home-6433a8298adf)
+- 🤖 [Unleash Llama 3.1 8B Power at Home](https://medium.com/@gael.penessot/unleash-llama-3-1-8b-power-at-home-6433a8398adf)
 
 [📝 Read all my articles on Medium](https://medium.com/@gael.penessot)
 
@@ -89,26 +99,15 @@
 
 ## 📬 Stay Connected
 
-- 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot) (27k+ followers)
-- 📧 Email: gael.penessot@data-decision.io
-- 🌐 Training Platform: [mes-formations-data.fr](https://www.mes-formations-data.fr/)
-- 📩 Newsletter: [DataGyver](https://pim.ms/t8Oupvs) — 1,138 subscribers, daily insights
-
----
-
-## 🎯 My Mission
-
-Help data analysts **save hours of work** through smart workflows, modern tools (Polars, DuckDB, Marimo), and actionable Python & SQL tips.
-
-**From 16 years at EDF to full-time creator** — helping you build the career you deserve.
-
-> "Simplicity is the ultimate sophistication." — *Leonardo da Vinci*
+- 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot) — 28k+ followers
+- 📧 gael.penessot@data-decision.io
+- 🌐 [mes-formations-data.fr](https://www.mes-formations-data.fr/)
+- 📩 [DataGyver Newsletter](https://pim.ms/t8Oupvs) — 1,300+ subscribers, 50% open rate
 
 ---
 
 **GitHub Stats**
-  
+
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gpenessot?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Profile views](https://komarev.com/ghpvc/?username=gpenessot)
-![Hits](https://hit.yhype.me/github/profile?user_id=8466122)
