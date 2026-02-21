@@ -108,8 +108,7 @@ Help data analysts **save hours of work** through smart workflows, modern tools 
 
 **GitHub Stats**
   
-![Gaël's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpenessot&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gpenessot&layout=compact&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gpenessot?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Profile views](https://komarev.com/ghpvc/?username=gpenessot)
 ![Hits](https://hit.yhype.me/github/profile?user_id=8466122)
