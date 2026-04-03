@@ -3,7 +3,7 @@
 > **"Rends-toi visible par ce que tu produis."**
 > Visibility opens doors. Whether it's a deployed project, a technical article, or a shared analysis — what matters is that it exists publicly.
 
-I spent 2 years posting tips, tutorials, and technical discoveries before monetizing anything. That consistency — not my MBA, not my 50+ certifications — built an audience of 28k on LinkedIn. Now I help others do the same.
+I spent 2 years posting tips, tutorials, and technical discoveries before monetizing anything. That consistency — not my MBA, not my 50+ certifications — built an audience of 29k on LinkedIn. Now I help others do the same.
 
 📍 Dijon, France | ✍️ Content creator, author, trainer
 
