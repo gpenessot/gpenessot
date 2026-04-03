@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gaël Penessot
 
-> **"Rends-toi visible par ce que tu produis."**  
+> **"Rends-toi visible par ce que tu produis."**
 > Visibility opens doors. Whether it's a deployed project, a technical article, or a shared analysis — what matters is that it exists publicly.
 
 I spent 2 years posting tips, tutorials, and technical discoveries before monetizing anything. That consistency — not my MBA, not my 50+ certifications — built an audience of 28k on LinkedIn. Now I help others do the same.
@@ -14,27 +14,15 @@ I spent 2 years posting tips, tutorials, and technical discoveries before moneti
 | | |
 |---|---|
 | 📦 [**ShipData**](https://www.mes-formations-data.fr/formation/shipdata) | 3 professional Python boilerplates to deploy your first portfolio projects — **49€** |
-| 🗄️ [**SQL Mastery Beta**](https://www.mes-formations-data.fr/formation/sql-mastery-beta) | Master SQL with DuckDB & Python — 87 exercises, zero installation — **97€** |
+| 🗄️ [**SQL Mastery**](https://www.mes-formations-data.fr/formation/sql-mastery-beta) | Master SQL with DuckDB & Python — 87 exercises, zero installation — **97€** |
 | 🎓 [**Streamlit Unleashed**](https://www.mes-formations-data.fr/formation/streamlit-unleashed) | Build production-ready data apps that get noticed — **297€** |
-| 🏆 [**Portfolio Impactant**](https://www.mes-formations-data.fr/formation/portfolio-impactant) | Create a data portfolio that opens doors — **197€** |
-| 🚀 [**Productive Python Bootcamp**](https://www.mes-formations-data.fr/formation/bootcamp) | 4-week intensive: go from invisible candidate to the profile that stands out — **990€** |
+| 🏆 [**Portfolio Impactant**](https://www.mes-formations-data.fr/formation/portfolio-impactant) | Create a data portfolio that opens doors — **197€** *(Beta)* |
+| 🚀 [**BI avec Python**](https://www.mes-formations-data.fr/formation/bi-avec-python) | 6-week bootcamp: build what Power BI can't — Python, Streamlit, DuckDB, production deployment — **990€** |
 | 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) | Bestselling book — 600+ copies sold, translated into Spanish — ENI Éditions |
 | 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) | 1,300+ subscribers, 50% open rate — weekly Python/SQL insights |
 | 🎓 **LinkedIn Learning** | Polars course (February 2026) — 28M+ francophone learners |
 
 🌐 [mes-formations-data.fr](https://www.mes-formations-data.fr/)
-
----
-
-## 🚀 What I Do
-
-- 📖 Author of [**"Business Intelligence with Python"**](https://pim.ms/fXwQaXx) — 600+ copies sold, translated into Spanish
-- 👨‍🏫 Creator of **ShipData**, **SQL Mastery**, **Streamlit Unleashed**, **Portfolio Impactant**, and the **Productive Python Bootcamp**
-- 📡 **Formateur LinkedIn Learning** — Polars course in production for a 28M+ francophone audience
-- 📩 [**DataGyver Newsletter**](https://pim.ms/x89Vem4) — 1,300+ subscribers, weekly deep dives
-- 🎯 Organizer of Data/AI meetups in Dijon
-- ✍️ Writer on [**Medium**](https://medium.com/@gael.penessot)
-- 🐻 Creator of [**baribal**](https://github.com/gpenessot/baribal) — R-inspired data wrangling for Python
 
 ---
 
@@ -51,47 +39,18 @@ I spent 2 years posting tips, tutorials, and technical discoveries before moneti
 
 ---
 
-## 👨‍🏫 What I Teach
+## 🛠️ Open Source Projects
 
-- 📦 **Start your portfolio fast** — clone, adapt, and deploy 3 production-ready projects in a weekend ([ShipData](https://www.mes-formations-data.fr/formation/shipdata))
-- 🗄️ **Master SQL the modern way** — DuckDB, window functions, Python integration, zero installation ([SQL Mastery](https://www.mes-formations-data.fr/formation/sql-mastery-beta))
-- 🚀 **Build apps that get noticed** — from local notebook to deployed Streamlit app ([Streamlit Unleashed](https://www.mes-formations-data.fr/formation/streamlit-unleashed))
-- 🏆 **Create a portfolio that opens doors** — real projects, LinkedIn strategy, recruiter-ready ([Portfolio Impactant](https://www.mes-formations-data.fr/formation/portfolio-impactant))
-- ⚡ **Go production-ready in 4 weeks** — CI/CD, DuckDB, Pandera, design system, the full stack ([Bootcamp](https://www.mes-formations-data.fr/formation/bootcamp))
-
-> **My conviction:** You don't become visible by accumulating credentials. You become visible by producing things people can see, use, and judge.
+- 🐻 [**Baribal**](https://github.com/gpenessot/baribal) — R-style data wrangling for Python: `glimpse()`, `tabyl()`, `clean_names()` and more
+- 📊 [**Tech Trends Analyzer**](https://github.com/gpenessot/tech-trends-analyzer) — market intelligence dashboard for tracking technology adoption
 
 ---
 
-## 🔭 Current Projects
-
-### 🎓 Training Platform
-- [**mes-formations-data.fr**](https://www.mes-formations-data.fr/) — practical formations built around deployable, portfolio-ready projects
-- **ShipData** — 3 boilerplates to stop the tutorial hell
-- **SQL Mastery Beta** — DuckDB WASM directly in the browser, 87 exercises
-- **Streamlit Unleashed** — production patterns for data apps
-- **Portfolio Impactant** — real-world projects for career visibility
-- **Productive Python Bootcamp** — 4-week intensive, 10 spots per cohort
-
-### 🛠️ Developer Tools
-- **Baribal** — R-style data wrangling helpers for Python
-- **Tech Trends Analyzer** — market intelligence dashboard
-
----
-
-## 📦 Open Source
-
-- 🐻 [**Baribal**](https://github.com/gpenessot/baribal): R-style helpers for pandas & polars — `glimpse()`, `tabyl()`, `clean_names()` and more.
-
----
-
-## 📈 Featured Articles on Medium
+## 📈 Featured Articles
 
 - 📊 [Automate your real-time reports with Quarto, Python, and Plotly](https://medium.com/@gael.penessot/automate-your-real-time-reports-with-quarto-python-and-plotly-c2330ad2c01f)
 - 🚀 [The Beauty of Data: Matplotlib Meets Climate Visualization](https://medium.com/@gael.penessot/the-beauty-of-data-how-matplotlib-transformed-global-temperatures-into-visual-art-8e034fd21b69)
 - ✅ [Stop Wasting Time: Automate Your Presentation with Python](https://medium.com/@gael.penessot/stop-wasting-time-automate-your-presentation-with-python-a721fe39c8e5)
-- 📈 [3 Pandas Tricks to Speed Up File Reading](https://medium.com/@gael.penessot/3-tips-to-unlock-pandas-potential-for-efficient-large-file-reading-3805c6c0ff3e)
-- 🤖 [Unleash Llama 3.1 8B Power at Home](https://medium.com/@gael.penessot/unleash-llama-3-1-8b-power-at-home-6433a8398adf)
 
 [📝 Read all my articles on Medium](https://medium.com/@gael.penessot)
 
@@ -105,8 +64,6 @@ I spent 2 years posting tips, tutorials, and technical discoveries before moneti
 - 📩 [DataGyver Newsletter](https://pim.ms/t8Oupvs) — 1,300+ subscribers, 50% open rate
 
 ---
-
-**GitHub Stats**
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gpenessot?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
