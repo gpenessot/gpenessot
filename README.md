@@ -19,7 +19,7 @@ I spent 2 years posting tips, tutorials, and technical discoveries before moneti
 | 🏆 [**Portfolio Impactant**](https://www.mes-formations-data.fr/formation/portfolio-impactant) | Create a data portfolio that opens doors — **197€** *(Beta)* |
 | 🚀 [**BI avec Python**](https://www.mes-formations-data.fr/formation/bi-avec-python) | 6-week bootcamp: build what Power BI can't — Python, Streamlit, DuckDB, production deployment — **990€** |
 | 📘 [**Business Intelligence with Python**](https://pim.ms/fXwQaXx) | Bestselling book — 600+ copies sold, translated into Spanish — ENI Éditions |
-| 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) | 1,300+ subscribers, 50% open rate — weekly Python/SQL insights |
+| 📩 [**DataGyver Newsletter**](https://pim.ms/t8Oupvs) | 1,500+ subscribers, 50% open rate — weekly Python/SQL insights |
 | 🎓 **LinkedIn Learning** | Polars course (February 2026) — 28M+ francophone learners |
 
 🌐 [mes-formations-data.fr](https://www.mes-formations-data.fr/)
