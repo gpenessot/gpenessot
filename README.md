@@ -3,7 +3,7 @@
 > **"Rends-toi visible par ce que tu produis."**
 > Visibility opens doors. Whether it's a deployed project, a technical article, or a shared analysis — what matters is that it exists publicly.
 
-I spent 2 years posting tips, tutorials, and technical discoveries before monetizing anything. That consistency — not my MBA, not my 50+ certifications — built an audience of 29k on LinkedIn. Now I help others do the same.
+I spent 2 years posting tips, tutorials, and technical discoveries before monetizing anything. That consistency — not my MBA, not my 50+ certifications — built an audience of 30k on LinkedIn. Now I help others do the same.
 
 📍 Dijon, France | ✍️ Content creator, author, trainer
 
@@ -58,7 +58,7 @@ I spent 2 years posting tips, tutorials, and technical discoveries before moneti
 
 ## 📬 Stay Connected
 
-- 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot) — 28k+ followers
+- 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot) — 30k+ followers
 - 📧 gael.penessot@data-decision.io
 - 🌐 [mes-formations-data.fr](https://www.mes-formations-data.fr/)
 - 📩 [DataGyver Newsletter](https://pim.ms/t8Oupvs) — 1,300+ subscribers, 50% open rate
