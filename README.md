@@ -61,7 +61,7 @@ I spent 2 years posting tips, tutorials, and technical discoveries before moneti
 - 👨‍💼 [LinkedIn – Gaël Penessot](https://linkedin.com/in/gael-penessot) — 30k+ followers
 - 📧 gael.penessot@data-decision.io
 - 🌐 [mes-formations-data.fr](https://www.mes-formations-data.fr/)
-- 📩 [DataGyver Newsletter](https://pim.ms/t8Oupvs) — 1,300+ subscribers, 50% open rate
+- 📩 [DataGyver Newsletter](https://pim.ms/t8Oupvs) — 1,500+ subscribers, 50% open rate
 
 ---
 
